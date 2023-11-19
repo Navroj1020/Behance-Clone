@@ -1,0 +1,393 @@
+{
+    "products": [
+      {
+        "name": "Product 1",
+        "image": "assets/product1.webp",
+        "details": "HYPEBEAST | THE CIRCLE ISSUE #31",
+        "author": "Massive Assembly",
+        "sort":"Recommended"
+      },
+      {
+        "name": "Product 2",
+        "image": "assets/product2.webp",
+        "details": "Azura, Queen of the Sands",
+        "author": "Satish Neel",
+        "sort":"Curated"
+      },
+      {
+        "name": "Product 3",
+        "image": "assets/product3.webp",
+        "details": "Halloween Illustrations",
+        "author": "Yaroslava Apollonova",
+        "sort":"Most Appreciated"
+      },
+      {
+        "name": "Product 4",
+        "image": "assets/product4.webp",
+        "details": "Ice cream packaging. Character design.",
+        "author": "Rina Tokareva",
+        "sort":"Most Discussed"
+      },
+      {
+        "name": "Product 5",
+        "image": "assets/product5.webp",
+        "details": "Ilustrações para livros didáticos.",
+        "author": "Mauro Souza",
+        "sort":"Most Viewed"
+      },
+      {
+        "name": "Product 6",
+        "image": "assets/product6.webp",
+        "details": "Le rêve de Jason",
+        "author": "Lucie Dessertine",
+        "sort":"Most Recent"
+      },
+      {
+        "name": "Product 7",
+        "image": "assets/product7.webp",
+        "details": "Still life",
+        "author": "Muhammed Sajid",
+        "sort":"Recommended"
+      },
+      {
+        "name": "Product 8",
+        "image":"assets/product8.webp",
+        "details": "Character design | EasyStart contest",
+        "author": "Marina Borodacheva",
+        "sort":"Curated"
+      },
+      {
+        "name": "Product 9",
+        "image": "assets/product9.webp",
+        "details": "Cyberthugz Vol. 2",
+        "author": "Eduardo León",
+        "sort":"Most Appreciated"
+      },
+      {
+        "name": "Product 10",
+        "image": "assets/product10.webp",
+        "details": "Green pocket/ приложение для",
+        "author": "Multiple Owners",
+        "sort":"Most Discussed"
+      },
+      {
+        "name": "Product 11",
+        "image": "assets/product11.webp",
+        "details": "Кissing day illustration/Valentine's day",
+        "author": "Еlena Ped",
+        "sort":"Recommended"
+      },
+      {
+        "name": "Product 1",
+        "image": "assets/product1.webp",
+        "details": "HYPEBEAST | THE CIRCLE ISSUE #31",
+        "author": "Massive Assembly",
+        "sort":"Most Viewed"
+      },
+      {
+        "name": "Product 2",
+        "image": "assets/product2.webp",
+        "details": "Azura, Queen of the Sands",
+        "author": "Satish Neel",
+        "sort":"Most Recent"
+      },
+      {
+        "name": "Product 3",
+        "image": "assets/product3.webp",
+        "details": "Halloween Illustrations",
+        "author": "Yaroslava Apollonova",
+        "sort":"Recommended"
+      },
+      {
+        "name": "Product 4",
+        "image": "assets/product4.webp",
+        "details": "Ice cream packaging. Character design.",
+        "author": "Rina Tokareva",
+        "sort":"Curated"
+      },
+      {
+        "name": "Product 5",
+        "image": "assets/product5.webp",
+        "details": "Ilustrações para livros didáticos.",
+        "author": "Mauro Souza",
+        "sort":"Most Appreciated"
+      },
+      {
+        "name": "Product 6",
+        "image": "assets/product6.webp",
+        "details": "Le rêve de Jason",
+        "author": "Lucie Dessertine",
+        "sort":"Most Discussed"
+      },
+      {
+        "name": "Product 7",
+        "image": "assets/product7.webp",
+        "details": "Still life",
+        "author": "Muhammed Sajid",
+        "sort":"Most Viewed"
+      },
+      {
+        "name": "Product 8",
+        "image":"assets/product8.webp",
+        "details": "Character design | EasyStart contest",
+        "author": "Marina Borodacheva",
+        "sort":"Most Recent"
+      },
+      {
+        "name": "Product 9",
+        "image": "assets/product9.webp",
+        "details": "Cyberthugz Vol. 2",
+        "author": "Eduardo León",
+        "sort":"Recommended"
+      },
+      {
+        "name": "Product 10",
+        "image": "assets/product10.webp",
+        "details": "Green pocket/ приложение дл",
+        "author": "Multiple Owners",
+        "sort":"Curated"
+      },
+      {
+        "name": "Product 11",
+        "image": "assets/product11.webp",
+        "details": "Кissing day illustration/Valentine's day",
+        "author": "Еlena Ped",
+        "sort":"Most Discussed"
+      },
+      {
+        "name": "Product 1",
+        "image": "assets/product1.webp",
+        "details": "HYPEBEAST | THE CIRCLE ISSUE #31",
+        "author": "Massive Assembly",
+        "sort":"Most Appreciated"
+      },
+      {
+        "name": "Product 2",
+        "image": "assets/product2.webp",
+        "details": "Azura, Queen of the Sands",
+        "author": "Satish Neel",
+        "sort":"Most Discussed"
+      },
+      {
+        "name": "Product 3",
+        "image": "assets/product3.webp",
+        "details": "Halloween Illustrations",
+        "author": "Yaroslava Apollonova",
+        "sort":"Most Viewed"
+      },
+      {
+        "name": "Product 4",
+        "image": "assets/product4.webp",
+        "details": "Ice cream packaging. Character design.",
+        "author": "Rina Tokareva",
+        "sort":"Most Recent"
+      },
+      {
+        "name": "Product 5",
+        "image": "assets/product5.webp",
+        "details": "Ilustrações para livros didáticos.",
+        "author": "Mauro Souza",
+        "sort":"Recommended"
+      },
+      {
+        "name": "Product 6",
+        "image": "assets/product6.webp",
+        "details": "Le rêve de Jason",
+        "author": "Lucie Dessertine",
+        "sort":"Curated"
+      },
+      {
+        "name": "Product 7",
+        "image": "assets/product7.webp",
+        "details": "Still life",
+        "author": "Muhammed Sajid",
+        "sort":"Most Appreciated"
+      },
+      {
+        "name": "Product 8",
+        "image":"assets/product8.webp",
+        "details": "Character design | EasyStart contest",
+        "author": "Marina Borodacheva",
+        "sort":"Most Discussed"
+      },
+      {
+        "name": "Product 9",
+        "image": "assets/product9.webp",
+        "details": "Cyberthugz Vol. 2",
+        "author": "Eduardo León",
+        "sort":"Most Viewed"
+      },
+      {
+        "name": "Product 10",
+        "image": "assets/product10.webp",
+        "details": "Green pocket/ приложение для",
+        "author": "Multiple Owners",
+        "sort":"Most Recent"
+      },
+      {
+        "name": "Product 11",
+        "image": "assets/product11.webp",
+        "details": "Кissing day illustration/Valentine's day",
+        "author": "Еlena Ped",
+        "sort":"Curated"
+      },{
+        "name": "Product 1",
+        "image": "assets/product1.webp",
+        "details": "HYPEBEAST | THE CIRCLE ISSUE #31",
+        "author": "Massive Assembly",
+        "sort":"Recommended"
+      },
+      {
+        "name": "Product 2",
+        "image": "assets/product2.webp",
+        "details": "Azura, Queen of the Sands",
+        "author": "Satish Neel",
+        "sort":"Curated"
+      },
+      {
+        "name": "Product 3",
+        "image": "assets/product3.webp",
+        "details": "Halloween Illustrations",
+        "author": "Yaroslava Apollonova",
+        "sort":"Most Appreciated"
+      },
+      {
+        "name": "Product 4",
+        "image": "assets/product4.webp",
+        "details": "Ice cream packaging. Character design.",
+        "author": "Rina Tokareva",
+        "sort":"Most Discussed"
+      },
+      {
+        "name": "Product 5",
+        "image": "assets/product5.webp",
+        "details": "Ilustrações para livros didáticos.",
+        "author": "Mauro Souza",
+        "sort":"Most Viewed"
+      },
+      {
+        "name": "Product 6",
+        "image": "assets/product6.webp",
+        "details": "Le rêve de Jason",
+        "author": "Lucie Dessertine",
+        "sort":"Most Recent"
+      },
+      {
+        "name": "Product 7",
+        "image": "assets/product7.webp",
+        "details": "Still life",
+        "author": "Muhammed Sajid",
+        "sort":"Recommended"
+        
+      },
+      {
+        "name": "Product 8",
+        "image":"assets/product8.webp",
+        "details": "Character design | EasyStart contest",
+        "author": "Marina Borodacheva",
+        "sort":"Curated"
+      },
+      {
+        "name": "Product 9",
+        "image": "assets/product9.webp",
+        "details": "Cyberthugz Vol. 2",
+        "author": "Eduardo León",
+        "sort":"Most Appreciated"
+      },
+      {
+        "name": "Product 10",
+        "image": "assets/product10.webp",
+        "details": "Green pocket/ приложение для",
+        "author": "Multiple Owners",
+        "sort":"Most Discussed"
+      },
+      {
+        "name": "Product 11",
+        "image": "assets/product11.webp",
+        "details": "Кissing day illustration/Valentine's day",
+        "author": "Еlena Ped",
+        "sort":"Most Recent"
+      },
+      {
+        "name": "Product 1",
+        "image": "assets/product1.webp",
+        "details": "HYPEBEAST | THE CIRCLE ISSUE #31",
+        "author": "Massive Assembly",
+        "sort":"Most Viewed"
+      },
+      {
+        "name": "Product 2",
+        "image": "assets/product2.webp",
+        "details": "Azura, Queen of the Sands",
+        "author": "Satish Neel",
+        "sort":"Most Recent"
+      },
+      {
+        "name": "Product 3",
+        "image": "assets/product3.webp",
+        "details": "Halloween Illustrations",
+        "author": "Yaroslava Apollonova",
+        "sort":"Recommended"
+      },
+      {
+        "name": "Product 4",
+        "image": "assets/product4.webp",
+        "details": "Ice cream packaging. Character design.",
+        "author": "Rina Tokareva",
+        "sort":"Curated"
+      },
+      {
+        "name": "Product 5",
+        "image": "assets/product5.webp",
+        "details": "Ilustrações para livros didáticos.",
+        "author": "Mauro Souza",
+        "sort":"Most Appreciated"
+      },
+      {
+        "name": "Product 6",
+        "image": "assets/product6.webp",
+        "details": "Le rêve de Jason",
+        "author": "Lucie Dessertine",
+        "sort":"Most Discussed"
+      },
+      {
+        "name": "Product 7",
+        "image": "assets/product7.webp",
+        "details": "Still life",
+        "author": "Muhammed Sajid",
+        "sort":"Most Viewed"
+      },
+      {
+        "name": "Product 8",
+        "image":"assets/product8.webp",
+        "details": "Character design | EasyStart contest",
+        "author": "Marina Borodacheva",
+        "sort":"Most Recent"
+      },
+      {
+        "name": "Product 9",
+        "image": "assets/product9.webp",
+        "details": "Cyberthugz Vol. 2",
+        "author": "Eduardo León",
+        "sort":"Recommended"
+      },
+      {
+        "name": "Product 10",
+        "image": "assets/product10.webp",
+        "details": "Green pocket/ приложение для",
+        "author": "Multiple Owners",
+        "sort":"Curated"
+      },
+      {
+        "name": "Product 11",
+        "image": "assets/product11.webp",
+        "details": "Кissing day illustration/Valentine's day",
+        "author": "Еlena Ped",
+        "sort":"Most Viewed"
+      }
+      
+    ]
+  }
+  
+
+
